@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Add Imac to Cart(failed)">
+    <classes>
+      <class name="SeleniumProject.User_login">
+        <methods>
+          <include name="endTest"/>
+          <include name="verifyUserIsAbletoAddIMacToCart"/>
+          <include name="startTest"/>
+          <include name="closeBrowser"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- SeleniumProject.User_login -->
+    </classes>
+  </test> <!-- Add Imac to Cart(failed) -->
+</suite> <!-- Failed suite [Suite] -->

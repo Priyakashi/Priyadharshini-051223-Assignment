@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-05T21:49:17 IST" name="Suite" finished-at="2023-12-05T21:49:44 IST" duration-ms="27251">
+    <groups>
+    </groups>
+    <test started-at="2023-12-05T21:49:17 IST" name="Add Imac to Cart" finished-at="2023-12-05T21:49:44 IST" duration-ms="27251">
+      <class name="SeleniumProject.User_login">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:SeleniumProject.User_login@117159c0]" started-at="2023-12-05T21:49:17 IST" name="startTest" finished-at="2023-12-05T21:49:17 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:SeleniumProject.User_login@117159c0]" started-at="2023-12-05T21:49:17 IST" name="launchBrowser" finished-at="2023-12-05T21:49:23 IST" duration-ms="5506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyUserIsAbletoAddIMacToCart()[pri:0, instance:SeleniumProject.User_login@117159c0]" started-at="2023-12-05T21:49:23 IST" name="verifyUserIsAbletoAddIMacToCart" finished-at="2023-12-05T21:49:44 IST" duration-ms="20928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserIsAbletoAddIMacToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:SeleniumProject.User_login@117159c0]" started-at="2023-12-05T21:49:44 IST" name="closeBrowser" finished-at="2023-12-05T21:49:44 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:SeleniumProject.User_login@117159c0]" started-at="2023-12-05T21:49:44 IST" name="endTest" finished-at="2023-12-05T21:49:44 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- SeleniumProject.User_login -->
+    </test> <!-- Add Imac to Cart -->
+  </suite> <!-- Suite -->
+</testng-results>
